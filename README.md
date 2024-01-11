@@ -168,10 +168,10 @@ https://nightlifemadrid.com/
 
 ## Contributors
 
-Anna Payne
-Aswin Maheswaran
-Jas Singh Ghai
-Trinidad Roca
+- Anna Payne
+- Aswin Maheswaran
+- Jas Singh Ghai
+- Trinidad Roca
 
 
 
