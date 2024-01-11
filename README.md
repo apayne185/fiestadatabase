@@ -1,4 +1,4 @@
-# Clubbing in Madrid: A Comprehensive Guide to the City's Nightlife 🌃💃
+# FIESTA - A Databases Project Regarding Madrid Nightlife
 
 ## 🌟 Project Overview
 This project, focused on backend to understand the role of databases is developed by us servers as a comprehensive guide to the vibrant clubbing scene in Madrid. It offers detailed insights into various clubs, events, and nightlife experiences in the city, making it an essential resource for party-goers and nightlife enthusiasts.
