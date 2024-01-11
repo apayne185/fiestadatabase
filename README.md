@@ -166,13 +166,13 @@ https://www.esmadrid.com/en/madrid-nightlife
 https://nightlifemadrid.com/
 
 
-## 👥 Contributing
-Contributions are welcome! If you have suggestions or find a bug, please open an issue or submit a pull request.
+## Contributors
 
+Anna Payne
+Aswin Maheswaran
+Jas Singh Ghai
+Trinidad Roca
 
-Dive into the heart of Madrid's nightlife with this comprehensive guide. Discover the best clubs, events, and experiences the city has to offer! 🎶🌆
-
-[GitHub Repository](https://github.com/smaswin21/databases_project)
 
 
    
